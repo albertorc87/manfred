@@ -80,22 +80,6 @@
       },
       {
         "organization": {
-          "name": "Safe&Click",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/cc8f186f-ace9-4d50-8c22-a01abb142aea_linkedin-photo-46849.linkedin-photo-46849",
-            "alt": "23/11/12/cc8f186f-ace9-4d50-8c22-a01abb142aea_linkedin-photo-46849.linkedin-photo-46849"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full Stack Developer",
-            "startDate": "2020-09-01",
-            "finishDate": "2020-11-30"
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Mobusi",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/7d6a76bd-e1db-414d-b302-b6259ce03661_linkedin-photo-46849.linkedin-photo-46849",

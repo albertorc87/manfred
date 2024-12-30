@@ -201,6 +201,38 @@
     "projects": [
       {
         "details": {
+          "name": "Tutorial Completo de Creación de un Blog con Svelte 5",
+          "description": "Desarrollo de un tutorial detallado para crear un blog desde cero con Svelte 5 y SvelteKit. \n\nLa serie explica el funcionamiento de la reactividad, construcción de rutas, una API interna para cargar datos dinámicamente, autenticación y registro con Lucia-Auth.\n\nEn la página principal se cargan los 5 últimos artículos, pero al llegar al final de la página se cargarán los 5 artículos siguientes dinámicamente generando un scroll infinito.\n\nAdemás, cada artículo tiene una sección de comentarios en el que si un usuario está autenticado podrá crearlos y se mostrarán automáticamente sin tener que actualizar la página. La sección de comentarios también tendrá una carga automática para optimizar recursos.",
+          "URL": "https://github.com/albertorc87/blog-svelte-5"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Tutorial Integral de Desarrollo Web con Symfony 6",
           "description": "Creación de un tutorial completo sobre Symfony 6 que abarca desde la construcción de una aplicación web basada en un blog hasta la implementación de un panel de administración. \n\nA lo largo de ocho partes, se exploran temas como la configuración inicial del proyecto, creación de entidades y migraciones, generación de datos de prueba, desarrollo de controladores, plantillas con Tailwind CSS, optimización de consultas con Doctrine, autenticación de usuarios y creación de formularios personalizados.",
           "URL": "https://github.com/albertorc87/blog-symfony-tutorial"
@@ -567,6 +599,9 @@
       },
       {
         "name": "Tutorial Completo de Creación de un Blog con Laravel 8"
+      },
+      {
+        "name": "Tutorial Completo de Creación de un Blog con Svelte 5"
       },
       {
         "name": "Tutorial Integral de Desarrollo Web con Symfony 6"

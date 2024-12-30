@@ -88,12 +88,34 @@
         },
         "roles": [
           {
-            "name": "Back End Developer",
+            "name": "FullStack Developer",
             "startDate": "2015-01-01",
-            "finishDate": "2020-08-31",
+            "finishDate": "2020-11-01",
             "challenges": [
               {
-                "description": "- Web scrapping, simulación de login en páginas web, trabajo con expresiones regulares para extraer la información de plataformas sin API (PHP).\n- Automatización de creación y optimización de campañas de publicidad en plataformas externas sin API simulando un usuario.\n- Integración de API’s de terceros en nuestra plataforma para diversas funciones como almacenamiento de estadísticas, creación de campañas de publicidad y la optimización de estas (PHP).\n- Desarrollo de API’s para la integración con otras herramientas de la empresa (PHP).\n- Mantenimiento y mejora de nuestra plataforma de automatización de procesos para obtener información sobre el estado del servidor, funcionamiento correcto de los scripts, accesos a logs (PHP, html5, css3, twig, JQuery). \n- Desarrollo de scripts para la automatización de procesos (PHP)."
+                "description": "He desarrollado soluciones de web scraping, simulación de login en páginas web y trabajado con expresiones regulares para extraer información de plataformas que no cuentan con API. Además, he automatizado la creación y optimización de campañas de publicidad en plataformas externas, simulando el comportamiento de un usuario real para mejorar la eficiencia.\n\nTambién he integrado API's de terceros en nuestra plataforma, permitiendo funciones clave como almacenamiento de estadísticas, creación de campañas de publicidad y su optimización. He desarrollado API's internas para facilitar la integración con otras herramientas de la empresa, optimizando procesos críticos.\n\nEn el mantenimiento y mejora de nuestra plataforma de automatización de procesos, me he asegurado de obtener información precisa sobre el estado del servidor, el correcto funcionamiento de los scripts, y la gestión de accesos a logs. Utilizo tecnologías como PHP, HTML5, CSS3, Twig y jQuery. Además, he desarrollado scripts específicos para automatizar tareas y mejorar la productividad."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
               }
             ]
           }

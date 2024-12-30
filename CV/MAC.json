@@ -234,6 +234,27 @@
       },
       {
         "details": {
+          "name": "Creador del Framework EasyApi",
+          "description": "EasyAPI es un microframework ligero y autónomo desarrollado en PHP, diseñado específicamente para crear APIs RESTful de forma rápida y eficiente. \n\nSu estructura minimalista evita dependencias externas, ofreciendo una solución limpia y adaptable para el desarrollo de servicios API.",
+          "URL": "https://github.com/albertorc87/EasyAPI"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2022-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Autor de \"Guía para Aprender a Trabajar con Web APIs\"",
           "description": "Escribí y publiqué un libro gratuito para aprender a trabajar con APIs web, dirigida a desarrolladores que buscan comprender los conceptos fundamentales y el ciclo completo de interacción con APIs. \n\nEn este libro, de más de 50 páginas, explico detalladamente el protocolo HTTP, los componentes de una URL, el flujo de una petición y respuesta, y las bases de la arquitectura REST. \n\nIncluye ejemplos prácticos y se adapta tanto a desarrolladores frontend como backend, proporcionando una base sólida para construir APIs eficientes y bien estructuradas. \n\nLa guía ha sido revisada y mejorada con nuevas versiones según el feedback de la comunidad.",
           "URL": "https://cosasdedevs.com/posts/guia-aprende-trabajar-con-apis/"
@@ -472,6 +493,9 @@
     "projects": [
       {
         "name": "Autor de \"Guía para Aprender a Trabajar con Web APIs\""
+      },
+      {
+        "name": "Creador del Framework EasyApi"
       },
       {
         "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales"

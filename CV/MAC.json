@@ -280,6 +280,35 @@
       },
       {
         "details": {
+          "name": "Desarrollo de una API REST Completa de To-Do List con FastAPI",
+          "description": "Creación de una API RESTful para gestionar listas de tareas usando FastAPI. El proyecto abarca desde la instalación y organización de la estructura del proyecto hasta la implementación de un sistema de autenticación con JWT. \n\nIncluye la conexión a bases de datos, definición de modelos de datos y modelos de Pydantic, construcción de un CRUD completo, y diseño de tests. \n\nEste enfoque ofrece un ejemplo completo y funcional de una API en FastAPI con autenticación segura y prácticas de desarrollo robustas.",
+          "URL": "https://github.com/albertorc87/fastapi-todo-api"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "Fastapi",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales",
           "description": "Fundé y desarrollé CosasDeDevs, un blog de tutoriales de programación, construida con Django y Python por mí y que recibe mantenimiento constantemente. \n\nEste proyecto ofrece contenido técnico relacionado con el mundo de la programación basándome en todo lo que voy aprendiendo para ayudar a desarrolladores a mejorar sus habilidades y aprender nuevas tecnologías.",
           "URL": "https://cosasdedevs.com/"
@@ -499,6 +528,9 @@
       },
       {
         "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales"
+      },
+      {
+        "name": "Desarrollo de una API REST Completa de To-Do List con FastAPI"
       },
       {
         "name": "Tutorial Integral de Desarrollo Web con Symfony 6"

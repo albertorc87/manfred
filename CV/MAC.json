@@ -197,6 +197,44 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales",
+          "description": "Fundé y desarrollé CosasDeDevs, un blog de tutoriales de programación, construida con Django y Python por mí y que recibe mantenimiento constantemente. \n\nEste proyecto ofrece contenido técnico relacionado con el mundo de la programación basándome en todo lo que voy aprendiendo para ayudar a desarrolladores a mejorar sus habilidades y aprender nuevas tecnologías.",
+          "URL": "https://cosasdedevs.com/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-08-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -372,6 +410,11 @@
       }
     ],
     "desiredJobDescription": "Me apasiona involucrarme en el desarrollo de nuevos proyectos, ver cómo evolucionan y explorar como potenciar su crecimiento. Disfruto identificando implementaciones que mejoren la eficiencia, trabajar en la calidad del código y en funcionalidades que añadan un valor adicional. Actualmente, la dedicación a la innovación es clave en mi enfoque laboral.\n\nTambién, me gusta compartir mi conocimiento y formar a aquellos que están empezando en el mundo del desarrollo.\n\nAunque mi enfoque principal está en proyectos emergentes, estoy dispuesto a enfrentarme ocasionalmente a proyectos legacy, siempre y cuando no constituyan el core de mi día a día.",
-    "goodPractices": "En mi último trabajo implementé un entorno local para el SSP de la empresa para poder testar los cambios antes de subirlos a desarrollo y producción, un proyecto crítico que recibía 5000 millones de peticiones diarias.\n\nTambién implementé una nueva metodología de trabajo con Git, ya que hasta ese momento trabajaban con Cherry picks y tenían problemas de sincronización de código entre las ramas de desarrollo y producción.\n\nMe encargué del mentoring de los compañeros juniors para que aplicasen clean code y buenas prácticas con PHP."
+    "goodPractices": "En mi último trabajo implementé un entorno local para el SSP de la empresa para poder testar los cambios antes de subirlos a desarrollo y producción, un proyecto crítico que recibía 5000 millones de peticiones diarias.\n\nTambién implementé una nueva metodología de trabajo con Git, ya que hasta ese momento trabajaban con Cherry picks y tenían problemas de sincronización de código entre las ramas de desarrollo y producción.\n\nMe encargué del mentoring de los compañeros juniors para que aplicasen clean code y buenas prácticas con PHP.",
+    "projects": [
+      {
+        "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales"
+      }
+    ]
   }
 }

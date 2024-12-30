@@ -1,0 +1,267 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alberto",
+      "surnames": "Ramírez",
+      "title": "Back End Developer en Tappx",
+      "description": "Hola 👋. Soy Alberto y actualmente trabajo como Backend Developer en Tappx con tecnologías como PHP y NodeJS.\n\nTambién escribo tutoriales de programación en mi blog https://cosasdedevs.com/ sobre todo lo que voy aprendiendo.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/fec9b1da-298c-433e-b2e9-1eaf29a33609_linkedin-photo-46849.linkedin-photo-46849",
+        "alt": "23/11/12/fec9b1da-298c-433e-b2e9-1eaf29a33609_linkedin-photo-46849.linkedin-photo-46849"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJWfHd09v8oxIRsqOHE6dpBZI)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Tarragona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/albertorc87/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Tappx",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849",
+            "alt": "23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2020-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Safe&Click",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/cc8f186f-ace9-4d50-8c22-a01abb142aea_linkedin-photo-46849.linkedin-photo-46849",
+            "alt": "23/11/12/cc8f186f-ace9-4d50-8c22-a01abb142aea_linkedin-photo-46849.linkedin-photo-46849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2020-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mobusi",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/7d6a76bd-e1db-414d-b302-b6259ce03661_linkedin-photo-46849.linkedin-photo-46849",
+            "alt": "23/11/12/7d6a76bd-e1db-414d-b302-b6259ce03661_linkedin-photo-46849.linkedin-photo-46849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2015-01-01",
+            "finishDate": "2020-08-31",
+            "challenges": [
+              {
+                "description": "- Web scrapping, simulación de login en páginas web, trabajo con expresiones regulares para extraer la información de plataformas sin API (PHP).\n- Automatización de creación y optimización de campañas de publicidad en plataformas externas sin API simulando un usuario.\n- Integración de API’s de terceros en nuestra plataforma para diversas funciones como almacenamiento de estadísticas, creación de campañas de publicidad y la optimización de estas (PHP).\n- Desarrollo de API’s para la integración con otras herramientas de la empresa (PHP).\n- Mantenimiento y mejora de nuestra plataforma de automatización de procesos para obtener información sobre el estado del servidor, funcionamiento correcto de los scripts, accesos a logs (PHP, html5, css3, twig, JQuery). \n- Desarrollo de scripts para la automatización de procesos (PHP)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mobaloo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/1f61c140-a787-424e-8e9c-30c730430246_linkedin-photo-46849.linkedin-photo-46849",
+            "alt": "23/11/12/1f61c140-a787-424e-8e9c-30c730430246_linkedin-photo-46849.linkedin-photo-46849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2012-10-01",
+            "finishDate": "2014-08-31",
+            "challenges": [
+              {
+                "description": "- Maquetación y desarrollo de la web de la empresa (HTML, CSS3, JavaScript, JQuery y JQuery Mobile).\n- Creación y optimización de scripts PHP (optimización de scripts, accesos a archivos y urls, integración de API's, acceso a bases de datos MySQL y dynamodb de aws, API de hassoffers).\n- Diseño y desarrollo de software java para escritorio y web con japplet (Acceso a bases de datos MySQL, acceso y modificación de ficheros excel con la librería POI, acceso a urls, extracción de datos de ficheros xml, multiidioma, importación y exportación de archivos).\n- Configuración y mantenimiento de servidor Ubuntu (configuración de phpmyadmin, acceso a usuarios, instalación de php, configuración de permisos)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MassiveKnowledge",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/04d00748-31a8-48ea-a3b8-418e33d86b08_linkedin-photo-46849.linkedin-photo-46849",
+            "alt": "23/11/12/04d00748-31a8-48ea-a3b8-418e33d86b08_linkedin-photo-46849.linkedin-photo-46849"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2011-06-01",
+            "finishDate": "2012-06-30",
+            "challenges": [
+              {
+                "description": "- Desarrollo de aplicación de extracción y tratamiento de la información de archivos con formato pdf (C++ y MySQL).\n- Desarrollo de la web de un producto de la empresa (Java con el plugin de GWT, JSP, HTML, CSS3, JavaScript, MySQL).\n- Diseño y desarrollo de widgets para su integración en otras páginas web (Java con el plugin de GWT, CSS3)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/albertorc87/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "QA & Testing Engineer",
+        "Software Architect"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "MySQL",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "REST",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me apasiona involucrarme en el desarrollo de nuevos proyectos, ver cómo evolucionan y explorar como potenciar su crecimiento. Disfruto identificando implementaciones que mejoren la eficiencia, trabajar en la calidad del código y en funcionalidades que añadan un valor adicional. Actualmente, la dedicación a la innovación es clave en mi enfoque laboral.\n\nTambién, me gusta compartir mi conocimiento y formar a aquellos que están empezando en el mundo del desarrollo.\n\nAunque mi enfoque principal está en proyectos emergentes, estoy dispuesto a enfrentarme ocasionalmente a proyectos legacy, siempre y cuando no constituyan el core de mi día a día."
+  }
+}

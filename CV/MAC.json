@@ -170,12 +170,12 @@
         },
         "roles": [
           {
-            "name": "Full Stack Developer",
+            "name": "FullStack Developer",
             "startDate": "2011-06-01",
             "finishDate": "2012-06-30",
             "challenges": [
               {
-                "description": "- Desarrollo de aplicación de extracción y tratamiento de la información de archivos con formato pdf (C++ y MySQL).\n- Desarrollo de la web de un producto de la empresa (Java con el plugin de GWT, JSP, HTML, CSS3, JavaScript, MySQL).\n- Diseño y desarrollo de widgets para su integración en otras páginas web (Java con el plugin de GWT, CSS3)."
+                "description": "Trabajé en el desarrollo una aplicación avanzada para la extracción y tratamiento de información desde archivos en formato PDF, utilizando C++ y MySQL, optimizando la manipulación de grandes volúmenes de datos para su uso en diversas plataformas internas.\n\nHe desarrollado parte de la web del producto de la empresa, empleando Java con el plugin GWT, JSP, HTML, CSS3, JavaScript y MySQL.\n\nTambién he diseñado y desarrollado widgets en Java utilizando GWT, que tenían la funcionalidad de ser integrados en páginas de terceros."
               }
             ]
           }

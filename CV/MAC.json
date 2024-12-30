@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/albertorc87/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/albertorc87"
       }
     ]
   },
@@ -203,6 +207,10 @@
         {
           "URL": "https://www.linkedin.com/in/albertorc87/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/albertorc87",
+          "type": "github"
         }
       ]
     },

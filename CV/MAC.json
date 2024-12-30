@@ -549,12 +549,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "Full-stack Developer",

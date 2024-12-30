@@ -131,12 +131,30 @@
         },
         "roles": [
           {
-            "name": "Back End Developer",
+            "name": "FullStack Developer",
             "startDate": "2012-10-01",
             "finishDate": "2014-08-31",
             "challenges": [
               {
-                "description": "- Maquetación y desarrollo de la web de la empresa (HTML, CSS3, JavaScript, JQuery y JQuery Mobile).\n- Creación y optimización de scripts PHP (optimización de scripts, accesos a archivos y urls, integración de API's, acceso a bases de datos MySQL y dynamodb de aws, API de hassoffers).\n- Diseño y desarrollo de software java para escritorio y web con japplet (Acceso a bases de datos MySQL, acceso y modificación de ficheros excel con la librería POI, acceso a urls, extracción de datos de ficheros xml, multiidioma, importación y exportación de archivos).\n- Configuración y mantenimiento de servidor Ubuntu (configuración de phpmyadmin, acceso a usuarios, instalación de php, configuración de permisos)."
+                "description": "He trabajado en la maquetación y desarrollo de la web corporativa utilizando tecnologías como HTML, CSS3, JavaScript, jQuery y jQuery Mobile. También he creado y optimizado scripts en PHP para gestionar accesos a archivos, URLs, integración de API's, y bases de datos MySQL y DynamoDB en AWS, mejorando el rendimiento de las aplicaciones.\n\nHe diseñado y desarrollado software tanto para escritorio como para web en Java, utilizando JApplet. Mis proyectos incluyen funcionalidades como el acceso y manipulación de bases de datos MySQL, manejo de archivos Excel mediante la librería POI, extracción de datos desde archivos XML, soporte multiidioma, y la importación y exportación de datos.\n\nAdemás, he configurado y mantenido servidores Ubuntu, gestionando la instalación y configuración de phpMyAdmin, control de accesos de usuarios, instalación de PHP, y permisos del sistema para garantizar un entorno de desarrollo estable y seguro."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
               }
             ]
           }

@@ -201,6 +201,39 @@
     "projects": [
       {
         "details": {
+          "name": "Tutorial Integral de Desarrollo Web con Symfony 6",
+          "description": "Creación de un tutorial completo sobre Symfony 6 que abarca desde la construcción de una aplicación web basada en un blog hasta la implementación de un panel de administración. \n\nA lo largo de ocho partes, se exploran temas como la configuración inicial del proyecto, creación de entidades y migraciones, generación de datos de prueba, desarrollo de controladores, plantillas con Tailwind CSS, optimización de consultas con Doctrine, autenticación de usuarios y creación de formularios personalizados.",
+          "URL": "https://github.com/albertorc87/blog-symfony-tutorial"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-01-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales",
           "description": "Fundé y desarrollé CosasDeDevs, un blog de tutoriales de programación, construida con Django y Python por mí y que recibe mantenimiento constantemente. \n\nEste proyecto ofrece contenido técnico relacionado con el mundo de la programación basándome en todo lo que voy aprendiendo para ayudar a desarrolladores a mejorar sus habilidades y aprender nuevas tecnologías.",
           "URL": "https://cosasdedevs.com/"
@@ -414,6 +447,9 @@
     "projects": [
       {
         "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales"
+      },
+      {
+        "name": "Tutorial Integral de Desarrollo Web con Symfony 6"
       }
     ]
   }

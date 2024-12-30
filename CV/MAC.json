@@ -545,6 +545,10 @@
           "type": "technology"
         },
         {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "Symfony",
           "type": "technology"
         }

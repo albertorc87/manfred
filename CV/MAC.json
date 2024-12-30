@@ -309,6 +309,39 @@
       },
       {
         "details": {
+          "name": "Tutorial Completo de Creación de un Blog con Laravel 8",
+          "description": "Desarrollo de un tutorial detallado para crear un blog desde cero con Laravel 8 y Tailwind CSS. \n\nLa serie guía a través de la creación de modelos y migraciones de bases de datos, implementación de una página de inicio y detalle de posts, y construcción de formularios con validación. \n\nAdemás, incluye la creación de un sistema CRUD para gestionar posts y la implementación de pruebas unitarias para asegurar la calidad y fiabilidad del sistema. Este proyecto proporciona un ejemplo práctico y completo de desarrollo web con Laravel 8.",
+          "URL": "https://github.com/albertorc87/tutorial_laravel_blog"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Creador y autor de CosasDeDevs - Blog de Tutoriales",
           "description": "Fundé y desarrollé CosasDeDevs, un blog de tutoriales de programación, construida con Django y Python por mí y que recibe mantenimiento constantemente. \n\nEste proyecto ofrece contenido técnico relacionado con el mundo de la programación basándome en todo lo que voy aprendiendo para ayudar a desarrolladores a mejorar sus habilidades y aprender nuevas tecnologías.",
           "URL": "https://cosasdedevs.com/"
@@ -531,6 +564,9 @@
       },
       {
         "name": "Desarrollo de una API REST Completa de To-Do List con FastAPI"
+      },
+      {
+        "name": "Tutorial Completo de Creación de un Blog con Laravel 8"
       },
       {
         "name": "Tutorial Integral de Desarrollo Web con Symfony 6"

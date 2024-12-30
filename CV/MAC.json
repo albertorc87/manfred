@@ -40,12 +40,41 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849",
             "alt": "23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849"
-          }
+          },
+          "URL": "https://www.tappx.com/"
         },
         "roles": [
           {
             "name": "Back End Developer",
-            "startDate": "2020-11-01"
+            "startDate": "2020-11-01",
+            "finishDate": "2024-10-01",
+            "challenges": [
+              {
+                "description": "En mi rol en Tappx participaba activamente en el desarrollo y mantenimiento de microservicios utilizando PHP puro. \n\nTambién trabajé en herramientas backoffice de la empresa con frameworks como Laravel y Symfony. \n\nAdemás, trabajé en el diseño, mantenimiento y mejoras de una API con Node.js y Express utilizando la arquitectura de API REST. \n\nEra responsable de implementar mejoras en el SSP (Supply-Side Platform) de la compañía, una herramienta crítica de negocio que recibía una media de 5000 millones de peticiones diarias, optimizando procesos, realizando mantenimiento y creando sistemas para testar los cambios en entornos locales antes de su despliegue en producción. Para esto, trabajé con tecnologías como PHP, Redis, Kafka y Lua.\n\nOtra de mis labores era el mantenimiento de scripts de Lua en los que desarrolle una serie de funcionalidades para testarlos previamente en un entorno local y así minimizar posibles errores.\n\nAdemás, colaboré estrechamente con compañeros más junior, proporcionándoles apoyo y orientación técnica para su desarrollo profesional, en las que tratamos temas como Clean Code, buenas prácticas con PHP y uso de Git."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Lua",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },

@@ -45,7 +45,7 @@
         },
         "roles": [
           {
-            "name": "Back End Developer",
+            "name": "BackEnd Developer",
             "startDate": "2020-11-01",
             "finishDate": "2024-10-01",
             "challenges": [
@@ -54,6 +54,14 @@
               }
             ],
             "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
               {
                 "name": "Lua",
                 "type": "technology"
@@ -72,6 +80,14 @@
               },
               {
                 "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Slim",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
                 "type": "technology"
               }
             ]

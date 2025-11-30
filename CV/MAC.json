@@ -8,8 +8,8 @@
     "profile": {
       "name": "Alberto",
       "surnames": "Ramírez",
-      "title": "Backend/FullStack Developer",
-      "description": "Si eres reclutador/a y buscas un Senior Backend Developer, has llegado al lugar correcto.\n\n¿Quieres saber mi \"resumen profesional\"? Pues agárrate, porque tengo más de 14 años trasteando con APIs y servicios de alto rendimiento en ligas mayores (AdTech y SaaS). \n\nMe manejo entre PHP/Symfony para el backend y también le meto mano a React/Next.js en el frontend.\n\nLo que de verdad te va a gustar es mi enfoque en el valor real:\n\nMultiplicador de Ingresos: En un servicio crítico que procesaba ~5.000M de peticiones diarias, aplicamos mejoras en el algoritmo que multiplicaron por cuatro la facturación diaria. Spoiler: Pasamos de 10K a 40K.\n\nAcelerar Procesos: Creamos una herramienta de formularios dinámicos (basados en JSON) que hacía el trabajo que antes nos costaba un día se hiciera en una sola hora. Con sus tests por supuesto.\n\nMi stack de batalla es robusto: PHP, Symfony, Node.js, DDD, Arquitectura Hexagonal y mis sidekicks favoritos, Kafka y Redis. Además, si necesitas ayuda con Docker o el CI/CD, también estoy en ese juego.\n\nSi a todo esto le sumamos que me gusta crear buen ambiente y tengo vocación de mentorizar a compañeros, te llevas el cóctel perfecto.\n\nBusco proyectos donde mi experiencia en escalabilidad y optimización sea importante. Si buscas a alguien que resuelva de verdad y maneje sistemas de alto tráfico, escríbeme.",
+      "title": "Senior PHP Developer | Symfony | Python | JavaScript | React.js",
+      "description": "Si eres reclutador/a y buscas un Senior Backend Developer, has llegado al lugar correcto.  ¿Quieres saber mi \"resumen profesional\"? Pues agárrate, porque tengo más de 14 años trasteando con APIs y servicios de alto rendimiento en ligas mayores (AdTech y SaaS).   Me manejo entre PHP/Symfony para el backend y también le meto mano a React/Next.js en el frontend.  Lo que de verdad te va a gustar es mi enfoque en el valor real:  Multiplicador de Ingresos: En un servicio crítico que procesaba ~5.000M de peticiones diarias, aplicamos mejoras en el algoritmo que multiplicaron por cuatro la facturación diaria. Spoiler: Pasamos de 10K a 40K.  Acelerar Procesos: Creamos una herramienta de formularios dinámicos (basados en JSON) que hacía el trabajo que antes nos costaba un día se hiciera en una sola hora. Con sus tests por supuesto.  Mi stack de batalla es robusto: PHP, Symfony, Node.js, DDD, Arquitectura Hexagonal y mis sidekicks favoritos, Kafka y Redis. Además, si necesitas ayuda con Docker o el CI/CD, también estoy en ese juego.  Si a todo esto le sumamos que me gusta crear buen ambiente y tengo vocación de mentorizar a compañeros, te llevas el cóctel perfecto.  Busco proyectos donde mi experiencia en escalabilidad y optimización sea importante. Si buscas a alguien que resuelva de verdad y maneje sistemas de alto tráfico, escríbeme.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/fec9b1da-298c-433e-b2e9-1eaf29a33609_linkedin-photo-46849.linkedin-photo-46849",
         "alt": "23/11/12/fec9b1da-298c-433e-b2e9-1eaf29a33609_linkedin-photo-46849.linkedin-photo-46849"
@@ -36,43 +36,16 @@
     "jobs": [
       {
         "organization": {
-          "name": "Nido",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/30/e5841caa-1d2f-4ed0-9676-d1a23e371754_gonido_logo.jpg",
-            "alt": "gonido_logo.jpg"
-          },
-          "URL": "https://www.gonido.com/"
+          "name": "Nido"
         },
         "roles": [
           {
-            "name": "FullStack Developer",
+            "name": "Full Stack Developer",
             "startDate": "2025-01-01",
             "finishDate": "2025-10-01",
             "challenges": [
               {
-                "description": "En mi rol en Nido trabajo con PHP y Symfony en el backend aplicando DDD, CQRS y Arquitectura Hexagonal, y en el frontend con React y Next.js.\n\nUno de los principales retos que afronté junto a un compañero fue la creación de una herramienta para generar formularios dinámicos. Para ello diseñamos un sistema basado en un archivo JSON que contenía toda la configuración: los campos necesarios, su tipo de dato, dependencias con otros campos (que podían hacerlos obligatorios o no), visibilidad, validaciones y el espacio que ocupaban. \n\nA través de la API enviábamos esta configuración al frontend, que se encargaba de construir el formulario y controlar las validaciones. Una vez completado, el formulario se enviaba al backend, donde, utilizando el mismo JSON de configuración, realizábamos las validaciones y transformaciones de los campos, garantizando así una doble validación. Este sistema nos permitió ahorrar un tiempo considerable en la creación o modificación de formularios, ya que bastaba con editar el JSON de configuración.\n\nAdemás, como la información también se almacenaba en la base de datos en formato JSON, conseguimos que fuera completamente dinámico.\n\nMás allá de este caso, en mi día a día me ocupaba de añadir nuevas páginas y endpoints a la plataforma, desarrollar tests en PHP y mantener las pruebas automatizadas en Cypress del lado del frontend."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
+                "description": "En mi rol en Nido trabajo con PHP y Symfony en el backend aplicando DDD, CQRS y Arquitectura Hexagonal, y en el frontend con React y Next.js.  Uno de los principales retos que afronté junto a un compañero fue la creación de una herramienta para generar formularios dinámicos. Para ello diseñamos un sistema basado en un archivo JSON que contenía toda la configuración: los campos necesarios, su tipo de dato, dependencias con otros campos (que podían hacerlos obligatorios o no), visibilidad, validaciones y el espacio que ocupaban.   A través de la API enviábamos esta configuración al frontend, que se encargaba de construir el formulario y controlar las validaciones. Una vez completado, el formulario se enviaba al backend, donde, utilizando el mismo JSON de configuración, realizábamos las validaciones y transformaciones de los campos, garantizando así una doble validación. Este sistema nos permitió ahorrar un tiempo considerable en la creación o modificación de formularios, ya que bastaba con editar el JSON de configuración.  Además, como la información también se almacenaba en la base de datos en formato JSON, conseguimos que fuera completamente dinámico.  Más allá de este caso, en mi día a día me ocupaba de añadir nuevas páginas y endpoints a la plataforma, desarrollar tests en PHP y mantener las pruebas automatizadas en Cypress del lado del frontend."
               }
             ]
           }
@@ -80,59 +53,16 @@
       },
       {
         "organization": {
-          "name": "Tappx",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849",
-            "alt": "23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849"
-          },
-          "URL": "https://www.tappx.com/"
+          "name": "Tappx"
         },
         "roles": [
           {
-            "name": "BackEnd Developer",
+            "name": "Back End Developer",
             "startDate": "2020-11-01",
             "finishDate": "2024-10-01",
             "challenges": [
               {
-                "description": "En mi rol en Tappx trabajé en herramientas backoffice de la empresa con frameworks como Laravel y Symfony en los que aplicamos DDD.\n\nAdemás, trabajé en el diseño, mantenimiento y mejoras de una API con Node.js y Express utilizando la arquitectura de API REST. \n\nEra responsable de implementar mejoras en el SSP (Supply-Side Platform) de la compañía, una herramienta crítica de negocio que recibía una media de 5000 millones de peticiones diarias, optimizando procesos, realizando mantenimiento y creando sistemas para testar los cambios en entornos locales antes de su despliegue en producción, algo que no existía hasta que llegué al equipo. Para esto, trabajé con tecnologías como PHP, Redis, Kafka y Lua. En este proyecto, aplicamos unas mejoras en el algoritmo que hicieron que se pasase de una facturación de 10k diarios a 40k.\n\nOtra de mis labores era el mantenimiento de scripts de Lua en los que desarrolle una serie de funcionalidades para testarlos previamente en un entorno local y así minimizar posibles errores.\n\nDesarrollé un scheduler en PHP para la programación de tareas, permitiendo configurar la periodicidad, el número de hilos en paralelo y visualizar el retorno de información de las ejecuciones. Además, integré notificaciones de errores a través de Slack y una API con la que pudimos vincular el proyecto con el backoffice y así poder administrar las tareas visualmente. De esta forma, cada equipo técnico pudo gestionar sus propias tareas.\n\nAdemás, colaboré estrechamente con compañeros más junior, proporcionándoles apoyo y orientación técnica para su desarrollo profesional, en las que tratamos temas como Clean Code, buenas prácticas con PHP y el uso de Git.\n\nTambién desarrollé varios microservicios en PHP con nuestro propio framework."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Laravel",
-                "type": "technology"
-              },
-              {
-                "name": "Lua",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "Slim",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
+                "description": "En mi rol en Tappx trabajé en herramientas backoffice de la empresa con frameworks como Laravel y Symfony en los que aplicamos DDD.  Además, trabajé en el diseño, mantenimiento y mejoras de una API con Node.js y Express utilizando la arquitectura de API REST.   Era responsable de implementar mejoras en el SSP (Supply-Side Platform) de la compañía, una herramienta crítica de negocio que recibía una media de 5000 millones de peticiones diarias, optimizando procesos, realizando mantenimiento y creando sistemas para testar los cambios en entornos locales antes de su despliegue en producción, algo que no existía hasta que llegué al equipo. Para esto, trabajé con tecnologías como PHP, Redis, Kafka y Lua. En este proyecto, aplicamos unas mejoras en el algoritmo que hicieron que se pasase de una facturación de 10k diarios a 40k.  Otra de mis labores era el mantenimiento de scripts de Lua en los que desarrolle una serie de funcionalidades para testarlos previamente en un entorno local y así minimizar posibles errores.  Desarrollé un scheduler en PHP para la programación de tareas, permitiendo configurar la periodicidad, el número de hilos en paralelo y visualizar el retorno de información de las ejecuciones. Además, integré notificaciones de errores a través de Slack y una API con la que pudimos vincular el proyecto con el backoffice y así poder administrar las tareas visualmente. De esta forma, cada equipo técnico pudo gestionar sus propias tareas.  Además, colaboré estrechamente con compañeros más junior, proporcionándoles apoyo y orientación técnica para su desarrollo profesional, en las que tratamos temas como Clean Code, buenas prácticas con PHP y el uso de Git.  También desarrollé varios microservicios en PHP con nuestro propio framework."
               }
             ]
           }
@@ -140,42 +70,16 @@
       },
       {
         "organization": {
-          "name": "Mobusi",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/7d6a76bd-e1db-414d-b302-b6259ce03661_linkedin-photo-46849.linkedin-photo-46849",
-            "alt": "23/11/12/7d6a76bd-e1db-414d-b302-b6259ce03661_linkedin-photo-46849.linkedin-photo-46849"
-          }
+          "name": "Mobusi"
         },
         "roles": [
           {
-            "name": "FullStack Developer",
+            "name": "Full Stack Developer",
             "startDate": "2015-01-01",
             "finishDate": "2020-11-01",
             "challenges": [
               {
-                "description": "He desarrollado soluciones de web scraping, simulación de login en páginas web y trabajado con expresiones regulares para extraer información de plataformas que no cuentan con API. Además, he automatizado la creación y optimización de campañas de publicidad en plataformas externas, simulando el comportamiento de un usuario real para mejorar la eficiencia.\n\nTambién he integrado API's de terceros en nuestra plataforma, permitiendo funciones clave como almacenamiento de estadísticas, creación de campañas de publicidad y su optimización. He desarrollado API's internas para facilitar la integración con otras herramientas de la empresa, optimizando procesos críticos.\n\nEn el mantenimiento y mejora de nuestra plataforma de automatización de procesos, me he asegurado de obtener información precisa sobre el estado del servidor, el correcto funcionamiento de los scripts, y la gestión de accesos a logs. Utilizo tecnologías como PHP, HTML5, CSS3, Twig y jQuery. Además, he desarrollado scripts específicos para automatizar tareas y mejorar la productividad."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
+                "description": "He desarrollado varios scripts que se encargaban de hacer web scraping, simulación de login en páginas web, trabajando con expresiones regulares para extraer información de plataformas que no cuentan con API. Además, he automatizado la creación y optimización de campañas de publicidad en plataformas externas, simulando el comportamiento de un usuario real para automatizar trabajo que antes era manual.  También he integrado API's de terceros en nuestra plataforma que usábamos para almacenar estadísticas, creación de campañas de publicidad y su optimización. He desarrollado API's internas para facilitar la integración con otras herramientas de la empresa.  En mi última etapa en Mobusi, trabajé en el SaaS de la empresa, creando y manteniendo las páginas existentes y utilizando tecnologías como PHP, HTML5, CSS3, Twig y jQuery."
               }
             ]
           }
@@ -183,38 +87,16 @@
       },
       {
         "organization": {
-          "name": "Mobaloo",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/1f61c140-a787-424e-8e9c-30c730430246_linkedin-photo-46849.linkedin-photo-46849",
-            "alt": "23/11/12/1f61c140-a787-424e-8e9c-30c730430246_linkedin-photo-46849.linkedin-photo-46849"
-          }
+          "name": "Mobaloo"
         },
         "roles": [
           {
-            "name": "FullStack Developer",
+            "name": "Back End Developer",
             "startDate": "2012-10-01",
-            "finishDate": "2014-08-31",
+            "finishDate": "2014-08-01",
             "challenges": [
               {
-                "description": "He trabajado en la maquetación y desarrollo de la web corporativa utilizando tecnologías como HTML, CSS3, JavaScript, jQuery y jQuery Mobile. También he creado y optimizado scripts en PHP para gestionar accesos a archivos, URLs, integración de API's, y bases de datos MySQL y DynamoDB en AWS, mejorando el rendimiento de las aplicaciones.\n\nHe diseñado y desarrollado software tanto para escritorio como para web en Java, utilizando JApplet. Mis proyectos incluyen funcionalidades como el acceso y manipulación de bases de datos MySQL, manejo de archivos Excel mediante la librería POI, extracción de datos desde archivos XML, soporte multiidioma, y la importación y exportación de datos.\n\nAdemás, he configurado y mantenido servidores Ubuntu, gestionando la instalación y configuración de phpMyAdmin, control de accesos de usuarios, instalación de PHP, y permisos del sistema para garantizar un entorno de desarrollo estable y seguro."
-              }
-            ],
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
+                "description": "He trabajado en la maquetación y desarrollo de la web corporativa utilizando tecnologías como HTML, CSS3, JavaScript, jQuery y jQuery Mobile. También he creado y optimizado scripts en PHP para gestionar accesos a archivos, URLs, integración de API's, y bases de datos MySQL y DynamoDB en AWS, mejorando el rendimiento de las aplicaciones.  He diseñado y desarrollado software tanto para escritorio como para web en Java, utilizando JApplet. Mis proyectos incluyen funcionalidades como el acceso y manipulación de bases de datos MySQL, manejo de archivos Excel mediante la librería POI, extracción de datos desde archivos XML, soporte multiidioma, y la importación y exportación de datos.  Además, he configurado y mantenido servidores Ubuntu, gestionando la instalación y configuración de phpMyAdmin, control de accesos de usuarios, instalación de PHP, y permisos del sistema para garantizar un entorno de desarrollo estable y seguro."
               }
             ]
           }
@@ -222,20 +104,16 @@
       },
       {
         "organization": {
-          "name": "MassiveKnowledge",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/04d00748-31a8-48ea-a3b8-418e33d86b08_linkedin-photo-46849.linkedin-photo-46849",
-            "alt": "23/11/12/04d00748-31a8-48ea-a3b8-418e33d86b08_linkedin-photo-46849.linkedin-photo-46849"
-          }
+          "name": "MassiveKnowledge"
         },
         "roles": [
           {
-            "name": "FullStack Developer",
+            "name": "Full Stack Developer",
             "startDate": "2011-06-01",
-            "finishDate": "2012-06-30",
+            "finishDate": "2012-06-01",
             "challenges": [
               {
-                "description": "Trabajé en el desarrollo una aplicación avanzada para la extracción y tratamiento de información desde archivos en formato PDF, utilizando C++ y MySQL, optimizando la manipulación de grandes volúmenes de datos para su uso en diversas plataformas internas.\n\nHe desarrollado parte de la web del producto de la empresa, empleando Java con el plugin GWT, JSP, HTML, CSS3, JavaScript y MySQL.\n\nTambién he diseñado y desarrollado widgets en Java utilizando GWT, que tenían la funcionalidad de ser integrados en páginas de terceros."
+                "description": "Trabajé en el desarrollo una aplicación avanzada para la extracción y tratamiento de información desde archivos en formato PDF, utilizando C++ y MySQL, optimizando la manipulación de grandes volúmenes de datos para su uso en diversas plataformas internas.  He desarrollado parte de la web del producto de la empresa, empleando Java con el plugin GWT, JSP, HTML, CSS3, JavaScript y MySQL.  También he diseñado y desarrollado widgets en Java utilizando GWT, que tenían la funcionalidad de ser integrados en páginas de terceros."
               }
             ]
           }
@@ -465,7 +343,49 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cursor",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Doctrine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
           "type": "technology"
         }
       },
@@ -483,7 +403,61 @@
       },
       {
         "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lamp",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lua",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -513,6 +487,12 @@
       },
       {
         "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -531,6 +511,30 @@
       },
       {
         "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Stripe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Svelte",
           "type": "technology"
         }
@@ -543,9 +547,33 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2007-01-01",
+        "institution": {
+          "name": "I.E.S Juan Bosco"
+        },
+        "finishDate": "2009-01-01"
       }
     ],
     "softSkills": [

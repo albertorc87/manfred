@@ -36,6 +36,50 @@
     "jobs": [
       {
         "organization": {
+          "name": "Nido",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/30/e5841caa-1d2f-4ed0-9676-d1a23e371754_gonido_logo.jpg",
+            "alt": "gonido_logo.jpg"
+          },
+          "URL": "https://www.gonido.com/"
+        },
+        "roles": [
+          {
+            "name": "FullStack Developer",
+            "startDate": "2025-01-01",
+            "finishDate": "2025-10-01",
+            "challenges": [
+              {
+                "description": "En mi rol en Nido trabajo con PHP y Symfony en el backend aplicando DDD, CQRS y Arquitectura Hexagonal, y en el frontend con React y Next.js.\n\nUno de los principales retos que afronté junto a un compañero fue la creación de una herramienta para generar formularios dinámicos. Para ello diseñamos un sistema basado en un archivo JSON que contenía toda la configuración: los campos necesarios, su tipo de dato, dependencias con otros campos (que podían hacerlos obligatorios o no), visibilidad, validaciones y el espacio que ocupaban. \n\nA través de la API enviábamos esta configuración al frontend, que se encargaba de construir el formulario y controlar las validaciones. Una vez completado, el formulario se enviaba al backend, donde, utilizando el mismo JSON de configuración, realizábamos las validaciones y transformaciones de los campos, garantizando así una doble validación. Este sistema nos permitió ahorrar un tiempo considerable en la creación o modificación de formularios, ya que bastaba con editar el JSON de configuración.\n\nAdemás, como la información también se almacenaba en la base de datos en formato JSON, conseguimos que fuera completamente dinámico.\n\nMás allá de este caso, en mi día a día me ocupaba de añadir nuevas páginas y endpoints a la plataforma, desarrollar tests en PHP y mantener las pruebas automatizadas en Cypress del lado del frontend."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tappx",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/12/0f72ce8e-c66a-4309-b578-06a49ba4e7f1_linkedin-photo-46849.linkedin-photo-46849",
